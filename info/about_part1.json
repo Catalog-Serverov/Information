@@ -1,6 +1,6 @@
 {
-    "channel_id": 642172289726545921,
-    "message_url": "https://discord.com/channels/604636579545219072/642172289726545921/972593069419552789",
+    "channel_id": 1402230371923267665,
+    "message_url": "https://discord.com/channels/604636579545219072/1402230371923267665/972593069419552789",
     "footer": {
         "text": "© Процедура обновлена 16.11.2024"
     },
@@ -40,5 +40,16 @@
     ],
     "color": 7788799,
     "type": "rich",
-    "title": "Процедура становления партнёром"
+    "title": "Процедура становления партнёром",
+    "components": [
+        {
+            "type": "button",
+            "settings": {
+                "row": 0,
+                "label": "Подать жалобу на партнёрский сервер",
+                "emoji": "<:complaints:827468511659556885>",
+                "custom_id": "ComplaintsApplication"
+            }
+        }
+    ]
 }
