@@ -46,23 +46,34 @@
                 {
                     "type": 2,
                     "id": 8,
-                    "style": 5,
-                    "label": "Оставить отзыв сотруднику",
+                    "style": 2,
+                    "label": "Наша команда",
+                    "custom_id": "GlobalK.team",
                     "disabled": false,
-                    "url": "https://discord.com/channels/604636579545219072/1402230371923267665/1434836348103294997",
                     "emoji": {
-                        "name": "🌟"
+                        "name": "<:save:1008048880136495175>"
+                    }
+                },
+                {
+                    "type": 2,
+                    "id": 8,
+                    "style": 2,
+                    "label": "Оставить отзыв сотруднику",
+                    "custom_id": "ButtonTeamReviews_KK",
+                    "disabled": false,
+                    "emoji": {
+                        "name": "<:rate:970968550556717086>"
                     }
                 },
                 {
                     "type": 2,
                     "id": 9,
-                    "style": 5,
+                    "style": 2,
                     "label": "Жалоба на сотрудника",
                     "disabled": false,
-                    "url": "https://discord.com/channels/604636579545219072/1402230371923267665/1434836348103294997",
+                    "custom_id": "StaffComplaint",
                     "emoji": {
-                        "name": "🚫"
+                        "name": "<:StigmaWarn:907233210864381995>"
                     }
                 }
             ]
