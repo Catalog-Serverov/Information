@@ -27,20 +27,6 @@
         },
         {
             "type": 1,
-            "id": 5,
-            "components": [
-                {
-                    "type": 2,
-                    "id": 6,
-                    "style": 5,
-                    "label": "Выберите отдел для просмотра (меню)",
-                    "disabled": false,
-                    "url": "https://cdn.discordapp.com/attachments/957713361997549598/1438326987973202031/IMG_9185.png?ex=691679e4&is=69152864&hm=baab250eacc7707d5735182140c45ea7f5cddac41a1794c51e79f86ed7c46010&"
-                }
-            ]
-        },
-        {
-            "type": 1,
             "id": 7,
             "components": [
                 {
@@ -98,23 +84,6 @@
                         "url": "https://media.discordapp.net/attachments/690473916765831218/1440353342365630554/Hall_Fame_v4.png?ex=6953e695&is=69529515&hm=1654147602fb61774aba50f4e7bfeb07f02a02bc03ca831554649a8768f6af03&format=webp&quality=lossless&width=605&height=340&"
                     },
                     "spoiler": false
-                }
-            ]
-        },
-        {
-            "type": 1,
-            "id": 13,
-            "components": [
-                {
-                    "type": 2,
-                    "id": 14,
-                    "style": 5,
-                    "label": "Доска почёта/Сотрудники месяца (переключатель)",
-                    "disabled": false,
-                    "url": "https://discord.com/channels/604636579545219072/630432803942563840/1008778967500730408",
-                    "emoji": {
-                        "name": "👑"
-                    }
                 }
             ]
         },
