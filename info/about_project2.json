@@ -2,6 +2,7 @@
     "type": 17,
     "id": 1,
     "channel_id": 1402230410355806229,
+    "message_url": "https://discord.com/channels/604636579545219072/1402230410355806229/1455384447653511271",
     "components": [
         {
             "type": 12,
@@ -82,7 +83,7 @@
             "items": [
                 {
                     "media": {
-                        "url": "https://media.discordapp.net/attachments/819618523076624385/1445513384551387428/Hall_of_fame.webp?ex=6954373f&is=6952e5bf&hm=2bc977196043202f6711ebec7edaf6f999b5f4bb8b38ceb2ca0f3603c70d370d&animated=true&width=1522&height=856&"
+                        "url": "https://cdn.discordapp.com/attachments/819618523076624385/1456366596648992849/Hall_of_fame.png?ex=69581a96&is=6956c916&hm=12a45a514b4a278486a8d3605875f90af4a57f95e7621adf8580d5220c2c935a&"
                     },
                     "spoiler": false
                 }
