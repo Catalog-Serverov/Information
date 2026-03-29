@@ -62,9 +62,7 @@
                     "style": 5,
                     "label": "Подать жалобу",
                     "emoji": {
-                        "id": "1486786937267425530",
-                        "name": "unknown",
-                        "animated": false
+                        "name": "<:StigmaWarn:907233210864381995>"
                     },
                     "url": "https://discord.com/channels/604636579545219072/703615708323643482",
                     "custom_id": "p_284388519814631522"
