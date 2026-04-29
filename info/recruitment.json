@@ -79,22 +79,11 @@
                     "type": 2,
                     "id": 8,
                     "style": 1,
-                    "label": "Подать заявку",
-                    "custom_id": "StartNabor240920220",
-                    "disabled": false,
-                    "emoji": {
-                        "name": "<:save:1008048880136495175>"
-                    }
-                },
-                {
-                    "type": 2,
-                    "id": 8,
-                    "style": 2,
-                    "label": "Доп. инфо",
+                    "label": "Перейти к заявке",
                     "custom_id": "MoreInfoNabor",
                     "disabled": false,
                     "emoji": {
-                        "name": "<:expand:1238553940451262594>"
+                        "name": "<:next:952250446922285076>"
                     }
                 }
             ]
