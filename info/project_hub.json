@@ -123,8 +123,8 @@
                             "label": "Этапы партнёрства",
                             "value": "about_part3",
                             "emoji": {
-                                "id": "811016319716950046",
-                                "name": "partner_3"
+                                "id": "811016319238406175",
+                                "name": "partner_4"
                             }
                         },
                         {
@@ -198,6 +198,5 @@
     ],
     "accent_color": 3961476,
     "spoiler": false,
-    "channel_id": null,
     "message_url": null
 }
