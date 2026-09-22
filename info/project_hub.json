@@ -128,11 +128,11 @@
                             }
                         },
                         {
-                            "label": "Союз каталога",
-                            "value": "about_part5",
+                            "label": "Что такое обновление сервера",
+                            "value": "partnership_update",
                             "emoji": {
-                                "id": "827467451805597697",
-                                "name": "union"
+                                "id": "783024429494960158",
+                                "name": "update_me"
                             }
                         },
                         {
@@ -144,11 +144,11 @@
                             }
                         },
                         {
-                            "label": "Что такое обновление сервера",
-                            "value": "partnership_update",
+                            "label": "Союз Каталога",
+                            "value": "about_part5",
                             "emoji": {
-                                "id": "783024429494960158",
-                                "name": "update_me"
+                                "id": "827467451805597697",
+                                "name": "union"
                             }
                         },
                         {
