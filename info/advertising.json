@@ -43,10 +43,10 @@
                 {
                     "type": 2,
                     "style": 5,
-                    "label": "Boosty",
+                    "label": "Оплата",
                     "url": "https://boosty.to/pandemiaa22/donate",
                     "emoji": {
-                        "name": "⚡"
+                        "name": "<:QU_Boosty:1469760840499466290>"
                     }
                 }
             ]
