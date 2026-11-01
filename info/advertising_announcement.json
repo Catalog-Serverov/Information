@@ -25,9 +25,15 @@
         },
         {
             "id": 6,
-            "type": 14,
-            "divider": true,
-            "spacing": 2
+            "type": 12,
+            "items": [
+                {
+                    "media": {
+                        "url": "https://media.discordapp.net/attachments/1498148450662088864/1563277374819270856/media_d9c63830b3af39366754b353380cf5b8.webp?ex=6ae83fc2&is=6ae6ee42&hm=d2dfa1d06f25c8f66431e2a405c8b78bdfdd88f4e094ced22b09637f08c2c33f&=&format=webp"
+                    },
+                    "spoiler": false
+                }
+            ]
         },
         {
             "id": 7,
